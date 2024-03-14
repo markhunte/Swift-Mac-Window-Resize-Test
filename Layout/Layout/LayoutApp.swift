@@ -14,7 +14,8 @@ struct LayoutApp: App {
             ContentView()
                 .frame( minWidth: 350,   minHeight: 200 )
                    
-        } .windowResizability(.contentSize)
+        } 
+        //.windowResizability(.contentSize)
     }
        
 }
