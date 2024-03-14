@@ -1,4 +1,7 @@
 Just a simple test to see if I could replicate the layout from
+SwiftUI vs Auto Layout Challenge
+Christian Tietze
+ 
 https://www.youtube.com/watch?v=p8gRlrYWxwc
 
 This is by no means the correct way of doing things just a quick write.
